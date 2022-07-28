@@ -18,3 +18,11 @@
     background-color: blue;
     color: #fff;
 }
+.social-icon{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    
+    
+}
